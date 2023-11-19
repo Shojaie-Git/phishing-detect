@@ -1,4 +1,4 @@
-# eth-phishing-detect
+## eth-phishing-detect
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/eth-phishing-detect.svg)](https://greenkeeper.io/)
 
